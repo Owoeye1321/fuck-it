@@ -27,7 +27,7 @@ const App = () => {
       <Router>
         <Navbar/>
         <Routes>
-          <Route path='/' element={<Home addPokemonToTeam={addPokemonToTeam}/>}/>
+          <Route path='/assessment' element={<Home addPokemonToTeam={addPokemonToTeam}/>}/>
           <Route path='/pokemon/:name'element ={<PokemonDetails team={team} addPokemonToTeam={addPokemonToTeam} removePokemonFromTeam={removePokemonFromTeam} />}/>
           <Route path='/my-pokeman' element={<MyPokemon team={team} removePokemonFromTeam={removePokemonFromTeam}/>}/>
         </Routes>
