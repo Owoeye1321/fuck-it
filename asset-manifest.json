@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/assessment/static/css/main.9e4e9f31.css",
-    "main.js": "/assessment/static/js/main.f5675410.js",
-    "static/js/453.d1a5678c.chunk.js": "/assessment/static/js/453.d1a5678c.chunk.js",
-    "static/media/Logo.jpg": "/assessment/static/media/Logo.9be7c58d7a19dd4e3d0b.jpg",
-    "index.html": "/assessment/index.html",
-    "main.9e4e9f31.css.map": "/assessment/static/css/main.9e4e9f31.css.map",
-    "main.f5675410.js.map": "/assessment/static/js/main.f5675410.js.map",
-    "453.d1a5678c.chunk.js.map": "/assessment/static/js/453.d1a5678c.chunk.js.map"
+    "main.css": "/fuck-it/static/css/main.9e4e9f31.css",
+    "main.js": "/fuck-it/static/js/main.bbb5d407.js",
+    "static/js/453.d1a5678c.chunk.js": "/fuck-it/static/js/453.d1a5678c.chunk.js",
+    "static/media/Logo.jpg": "/fuck-it/static/media/Logo.9be7c58d7a19dd4e3d0b.jpg",
+    "index.html": "/fuck-it/index.html",
+    "main.9e4e9f31.css.map": "/fuck-it/static/css/main.9e4e9f31.css.map",
+    "main.bbb5d407.js.map": "/fuck-it/static/js/main.bbb5d407.js.map",
+    "453.d1a5678c.chunk.js.map": "/fuck-it/static/js/453.d1a5678c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e4e9f31.css",
-    "static/js/main.f5675410.js"
+    "static/js/main.bbb5d407.js"
   ]
 }
